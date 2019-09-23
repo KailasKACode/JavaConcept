@@ -1,11 +1,8 @@
 
 public class Test {
-
-	static {
-		System.out.println("static");
+	public static String main(String[] args) {
+		String sr="vikas";
+		return sr;
 	}
 
-	public static void main(String[] args) {
-
-	}
 }
